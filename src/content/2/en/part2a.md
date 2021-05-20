@@ -745,6 +745,6 @@ The application can, for example, look like this:
 
 <h4>2.5: separate module</h4>
 
-Declare the <i>Course</i> component as a separate module, which is imported by the <i>App</i> component. You can include all subcomponents of the course into the same module. 
+Declare the <i>Course</i> component as a separate module, which is imported by the <i>App</i> component. You can include all subcomponents of the course into the same <i>Course</i> module. To clarify, the subcomponents you've built so far will no longer exist in the components folder, they will be added directly to the <i>Course</i> module. 
 
 </div>
